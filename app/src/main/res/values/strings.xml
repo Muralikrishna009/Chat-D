@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat-D</string>
+    <string name="logo">Logo</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">signup</string>
+    <string name="hintName">Name</string>
+    <string name="sampleText">Murali</string>
+    <string name="logout">Logout</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="send">send</string>
+    <string name="sent_message">Sent message</string>
+</resources>
